@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I’m Jogendra, Class of 2020 Graduate and Post Graduate from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Web Developer and an active Open Source contributor. I build things mostly with _Go_ and _Swift_.
+
+### 📫 How to reach me
+
+- Twitter: [jogendrafx](https://twitter.com/jogendrafx)
+- LinkedIn: [Jogendra Kumar](https://www.linkedin.com/in/jogendrasingh24/)
+- Personal Website: [https://jogendra.dev](https://jogendra.dev)
+
 <!--
 **jogendra/jogendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
