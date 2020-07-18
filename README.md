@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Jogendra, Class of 2020 Graduate and Post Graduate from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Web Developer and an active Open Source contributor. I build things mostly with _Go_ and _Swift_.
+I’m Jogendra, Class of 2020 Graduate and Post Graduate in Physics from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Web Developer and an active Open Source contributor. I build things mostly with _Go_ and _Swift_.
 
 ### 📫 How to reach me
 
