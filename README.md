@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Jogendra, Class of 2020 Graduate and Post Graduate in Physics from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Backend Engineer and an active Open Source contributor. I build things mostly with _Go_ and _Swift_.
+I’m Jogendra, Class of 2020 Graduate and Post Graduate in Physics from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Backend Engineer and an active Open Source contributor. I build things mostly with **Golang** and **Swift**. I love tech and aviation equally, maybe aviation little bit more but not more than tech.
 
 - 🔭 I’m currently working on: **Fintech**, **Smart Mobility** and **Aviation** related products
 - 🌱 I’m currently learning: **Dutch**, **GRPC**, **Aviation**
