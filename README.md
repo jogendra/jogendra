@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I’m Jogendra, Class of 2020 Graduate and Post Graduate in Physics from **Indian Institute of Technology (BHU) Varanasi**. I am an iOS / Backend Engineer and an active Open Source contributor. My go-to programming languages for day to day tasks are **Golang** and **Swift**. I love tech and aviation equally, maybe aviation little bit more but not more than tech.
+Hi, I’m Jogendra!
 
-- 👯 I’m looking to collaborate on: CLI based projects
+I’m from India 🇮🇳 and currently based in Amsterdam, Netherlands 🇳🇱
+
+I love tech and aviation equally, maybe aviation little bit more but not more than tech. I’m hobbyist Drone Pilot, I fly DJI Mini 3 Pro.
+
+- I’m looking to collaborate on: CLI based, Aviation projects
 
 ### 📫 Links
 
+- Blogs/Portfolio: [https://jogendra.dev](https://jogendra.dev)
+- Digital Art / Drone Shots: [@flyways.io](http://instagram.com/flyways.io/)
 - Twitter: [jogendrafx](https://twitter.com/jogendrafx)
 - LinkedIn: [Jogendra](https://www.linkedin.com/in/jogendrasingh24/)
-- Blogs: [https://jogendra.dev](https://jogendra.dev)
-- Digital Art: [@flyways.io](http://instagram.com/flyways.io/)
